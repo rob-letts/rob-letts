@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**rob-letts/rob-letts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ Pronouns: He/Him 👍 
 
-Here are some ideas to get you started:
++ Contact: roblettsdev@gmail.com 📮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Web Developer based in Crystal Palace, London 🦖
+
++ Specialist in Vue.js and PostCSS 🚀
+
++ Front End Engineer at [TixTrack](https://www.tixtrack.com/) 🎟 
+
++ MSc Computer Science from [Birkbeck, University of London](https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc) 📚
+
+[![Rob Letts GitHub stats](https://github-readme-stats.vercel.app/api?username=rob-letts)](https://github.com/rob-letts/github-readme-stats)
