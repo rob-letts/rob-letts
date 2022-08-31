@@ -2,7 +2,7 @@
 
 + Pronouns: He/Him 👍 
 
-+ Contact: roblettsdev@gmail.com || [LinkedIn](linkedin.com/in/robertletts) 📮
++ Contact: roblettsdev@gmail.com || [LinkedIn](https://www.linkedin.com/in/robertletts) 📮
 
 + Web Developer based in Crystal Palace, London 🦖
 
