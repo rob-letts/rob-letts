@@ -6,7 +6,7 @@
 
 + Web Developer based in Crystal Palace, London 🦖
 
-+ Specialist in Vue.js, PostCSS, TypeScript 🚀
++ Specialist in Vue.js and CSS 🚀
 
 + Front End Engineer at [TixTrack](https://www.tixtrack.com/) 🎟 
 
