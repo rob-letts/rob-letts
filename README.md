@@ -4,7 +4,7 @@
 
 + Contact: roblettsdev@gmail.com || [LinkedIn](https://www.linkedin.com/in/robertletts) 📮
 
-+ Web Developer based in Crystal Palace, London 🦖
++ Front End Web Developer based in Crystal Palace, London 🦖
 
 + Specialising in CSS and Vue.js 🚀
 
