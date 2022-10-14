@@ -2,11 +2,11 @@
 
 <ul>
   <li>Pronouns: He/Him 👍</li>
-  <li>Contact: roblettsdev@gmail.com || [LinkedIn](https://www.linkedin.com/in/robertletts) 📮</li>
+  <li>Contact: roblettsdev@gmail.com || <a href="https://www.linkedin.com/in/robertletts">LinkedIn</a> 📮</li>
   <li>Front End Web Developer based in Crystal Palace, London 🦖</li>
   <li>CSS and Vue.js 🖤</li>
-  <li>Front End Engineer at [TixTrack](https://www.tixtrack.com/) 🎟</li>
-  <li><a href="https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc" target="_blank">MSc Computer Science from [Birkbeck, University of London 📚</a></li>
+  <li>Front End Engineer at <a href="https://www.tixtrack.com/">TixTrack</a> 🎟</li>
+  <li>MSc Computer Science from <a href="https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc" target="_blank">Birkbeck, University of London</a>📚</li>
 </ul>
 
 <div>
