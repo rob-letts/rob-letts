@@ -1,15 +1,15 @@
 <h1>Hi there 👋</h1>
 
-<ol>
+<ul>
   <li>Pronouns: He/Him 👍</li>
   <li>Contact: roblettsdev@gmail.com || [LinkedIn](https://www.linkedin.com/in/robertletts) 📮</li>
   <li>Front End Web Developer based in Crystal Palace, London 🦖</li>
   <li>CSS and Vue.js 🖤</li>
   <li>Front End Engineer at [TixTrack](https://www.tixtrack.com/) 🎟</li>
-  <li>MSc Computer Science from [Birkbeck, University of London](https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc) 📚</li>
-</ol>
+  <li><a href="https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc" target="_blank">MSc Computer Science from [Birkbeck, University of London 📚</a></li>
+</ul>
 
-<p>
+<p style="display: flex;">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
