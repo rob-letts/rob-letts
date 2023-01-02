@@ -2,7 +2,7 @@
 
 <ul>
   <li>Pronouns: He/Him 👍</li>
-  <li>Contact: roblettsdev@gmail.com / <a href="https://www.linkedin.com/in/robertletts">LinkedIn</a> 📮</li>
+  <li>Contact: roblettsdev@gmail.com | <a href="https://www.linkedin.com/in/robertletts">LinkedIn</a> 📮</li>
   <li>Front End Web Developer based in Crystal Palace, London 🦖</li>
   <li>CSS, Modal Editors, and Vue.js 💚</li>
   <li>Front End Engineer at <a href="https://www.tixtrack.com/">TixTrack</a> 🎟</li>
