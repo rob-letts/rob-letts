@@ -4,7 +4,8 @@
   <li>Pronouns: He/Him 👍</li>
   <li>Contact: roblettsdev@gmail.com | <a href="https://www.linkedin.com/in/robertletts">LinkedIn</a> 📮</li>
   <li>Web Developer based in Crystal Palace, London 🦖</li>
-  <li>CSS, Modal Editors, and Vue.js 💚</li>
+  <li>CSS, Neovim, and Vue.js 💚</li>
+  <li>Currently learning Rust and WebAssembly 🦞</li>
   <li>Front End Engineer at <a href="https://www.tixtrack.com/">TixTrack</a> 🎟</li>
   <li>MSc Computer Science from <a href="https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc" target="_blank">Birkbeck, University of London</a>📚</li>
 </ul>
