@@ -9,24 +9,35 @@
   <li>MSc Computer Science from <a href="https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc" target="_blank">Birkbeck, University of London</a>📚</li>
 </ul>
 
-<div>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<ul>
+  <li><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></li>
+  <li><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" /></li>
+  <li><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></li>
+  <li><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" /></li>
+  <li><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></li>
+  <li><img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=white" /></li>
+</ul>
 
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFF" />
+<ul>
+  <li><img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white" /></li>
+  <li><img alt="Lit" src="https://img.shields.io/badge/-Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white" /></li>
+  <li><img alt="Astro" src="https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=Astro&logoColor=white" /></li>
+</ul>
 
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  
-</div>
+<ul>
+  <li><img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></li>
+  <li><img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" /></li>
+  <li><img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /></li>
+</ul>
 
-<div>
-  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  
-  <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-  <img alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img alt="Stylelint" src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />
-  <img alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" 
-</div>
+<ul>
+  <li><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></li>
+  <li><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></li>
+  <li><img alt="ESLint" src="https://img.shields.io/badge/-eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /></li>
+</ul>
+
+<ul>
+  <li><img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></li>
+  <li><img alt="Neovim" src="https://img.shields.io/badge/-NeoVim-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /></li>
+  <li><img alt="Google Chrome" src="https://img.shields.io/badge/-Google_Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /></li>
+</ul>
