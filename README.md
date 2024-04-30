@@ -7,6 +7,7 @@
   <li>CSS and Vue.js 💚</li>
   <li>Front End Engineer at <a href="https://www.tixtrack.com/">TixTrack</a> 🎟</li>
   <li>MSc Computer Science from <a href="https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc" target="_blank">Birkbeck, University of London</a>📚</li>
+  <li><a href="https://codepen.io/rob-letts">Check out my Codepen</a></li>
 </ul>
 
 <div>
