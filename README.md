@@ -15,8 +15,6 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000))" />
-
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white" />
@@ -32,4 +30,5 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Neovim" src="https://img.shields.io/badge/-NeoVim-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   <img alt="Google Chrome" src="https://img.shields.io/badge/-Google_Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+  [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#
 </div>
