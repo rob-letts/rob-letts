@@ -4,7 +4,7 @@
   <li>Pronouns: He/Him 👍</li>
   <li>Email: roblettsdev@gmail.com 📮</li>
   <li>Web Developer based in Crystal Palace, London 🦖</li>
-  <li>CSS, Design Systems, and Web Animations 💚</li>
+  <li>CSS and Vue.js 💚</li>
   <li>Front End Engineer at <a href="https://www.tixtrack.com/">TixTrack</a> 🎟</li>
   <li>MSc Computer Science from <a href="https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc" target="_blank">Birkbeck, University of London</a>📚</li>
 </ul>
@@ -16,7 +16,6 @@
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
   <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" />
