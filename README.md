@@ -21,6 +21,5 @@
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
   <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff" />
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" />
-  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff" />
   <img alt="Vitest" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 </div>
