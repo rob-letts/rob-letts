@@ -16,13 +16,12 @@
   <img alt="SCSS" src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   
-  
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
 
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
   
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" />
 </div>
