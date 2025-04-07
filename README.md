@@ -20,8 +20,8 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
   
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />  
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
-  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82" />
   
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" />
 </div>
